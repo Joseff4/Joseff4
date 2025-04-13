@@ -16,16 +16,16 @@ I'm a junior **QA Engineer** and **Data Analyst** based in Israel, with a backgr
 ---
 
 📌 **My Projects:**
-- [🚕 Taxi Order Automation (WebdriverIO)](https://github.com/Joseff4/sample-wdio-project)
-- [📊 SQL Reports and Analytics](https://github.com/Joseff4/sql-analytics-final) *(Add this if you haven’t yet)*
-- [📱 Mobile App Test Cases – Urban Scooter](https://github.com/Joseff4/mobile-testcases-scooter)
+- [🚕 Taxi Order Automation (WebdriverIO)](https://github.com/Joseff4/hm08-qa-us)
+- [🔧 API Testing Project (PUT/POST/GET requests in Jest)](https://github.com/Joseff4/hm07-qa-us)
+- [📱 Mobile App Test Cases – Urban Scooter (Google Drive)](https://drive.google.com/drive/folders/13aX47njIpDbPd5afaAZG6t9Ok-TJ_HZE?usp=drive_link)
 
 ---
 
 📫 **Contact:**
-- [LinkedIn](https://linkedin.com/in/your-link)  
+- [LinkedIn](https://linkedin.com/in/iosif-yusim-a4531b2a0)  
 - 📍 Haifa, Israel  
-- 📧 your.email@example.com *(optional)*
+- 📧 iosif.yusim@gmail.com
 
 ---
 
