@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Joseff4/Joseff4/blob/main/qa-banner-dark.png?raw=true" width="100%" />
+</p>
+
 ### Hi there! I'm Iosif 👋
 
 I'm a junior **QA Engineer** and **Data Analyst** based in Israel, with a background in warehouse operations and a strong passion for IT.
